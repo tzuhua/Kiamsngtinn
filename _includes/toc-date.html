@@ -52,9 +52,9 @@
                             {% endif %} -->
                             {{ post.title | escape }}
                         </a>
-                        <!--{% if collection.label == "posts" %}
+                        {% if collection.label == "posts" %}
                             </b>
-                        {% endif %}-->
+                        {% endif %}
 
                         {% if site.toc.enabled %}
                             {% if page.url == post.url %}
@@ -67,9 +67,9 @@
                         </li>
                     {% endfor %}
 
-                    {% if collection.label == "posts" %}
+                    <!--{% if collection.label == "posts" %}
                         <br>
-                    {% endif %}
+                    {% endif %}-->
                     
                     <li class="divider"></li>
                 {% endif %}
