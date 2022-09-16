@@ -1,5 +1,5 @@
-# Kiâm-sng-tiⁿ ê bāng-chām
-* 冊名：Kiâm-sng-tiⁿ（鹹酸甜）
+# Tâi-oân Sio̍k-gí Kiâm-sng-tiⁿ ê bāng-chām
+* 冊名：Tâi-oân Sio̍k-gí Kiâm-sng-tiⁿ（台灣俗語鹹酸甜）
 * 作者：Siau Lah-jih（蕭平治）
 
 ## 注意事項
