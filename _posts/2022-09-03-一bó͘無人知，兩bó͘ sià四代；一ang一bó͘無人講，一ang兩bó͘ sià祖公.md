@@ -20,7 +20,6 @@ Chi̍t ang chi̍t bó͘ bô-lâng kóng, chi̍t ang nn̄g bó͘ sià chó͘-kong
 有「七年之癢」ê cha-po͘人tio̍h覺醒，自由ê世界，平權ê時代，兩性是平等--ê，你m̄ ài牽手有感情ê走私，咱做cha-po͘-kiáⁿ--ê，mā m̄-thang有boeh娶細姨ê私心，你講tio̍h ah是m̄ tio̍h。祝福ta̍k-ke，ang-bó͘合和，生活美滿。
 
 ### 【註解】
-> **Chù-kái**
 
 |**詞**|**解說**|
 |Ùi tó位|『從哪裡』。|
