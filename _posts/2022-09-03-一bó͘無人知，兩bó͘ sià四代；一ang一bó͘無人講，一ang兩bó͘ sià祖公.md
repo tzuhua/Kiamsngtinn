@@ -21,7 +21,6 @@ Chi̍t ang chi̍t bó͘ bô-lâng kóng, chi̍t ang nn̄g bó͘ sià chó͘-kong
 
 ### 【註解】
 
-|**詞**|**解說**|
 |Ùi tó位|『從哪裡』。|
 |本chiâⁿ|Pún-chiâⁿ，本來。|
 |變pháiⁿ--ah|『變壞了』。|
