@@ -4,7 +4,7 @@ title: 1003. 一bó͘無人知，兩bó͘ sià四代；一ang一bó͘無人講�
 author: Siau Lah-jih
 date: 2022-09-03
 category: chheh
-show_chapter: 1
+show_chapter: 2
 layout: post
 toc: true
 ---
