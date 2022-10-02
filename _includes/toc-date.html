@@ -43,7 +43,7 @@
                             <h4>&nbsp;&nbsp;鹹酸甜第4冊</h4>
                         {% endif %} -->
 
-                        {% if post.chapter_group == 1 %}
+                        {% if post.show_chapter == 0 %}
                             <a href="{{site.baseurl}}{{post.url}}">
                                 {{ post.title | escape }}
                             </a>
@@ -56,11 +56,11 @@
                                 {% if collection.label == "posts" %}
                                     <b>
                                 {% endif %}
-                                <!--{% if post.show_chapter == post.chapter_group %}
+                                {% if post.show_chapter == post.chapter_group %}
                                     <a href="{{site.baseurl}}{{post.url}}">
                                         {{ post.title | escape }}
                                     </a>
-                                {% endif %} -->
+                                {% endif %}
                                 {% if collection.label == "posts" %}
                                     </b>
                                 {% endif %}
