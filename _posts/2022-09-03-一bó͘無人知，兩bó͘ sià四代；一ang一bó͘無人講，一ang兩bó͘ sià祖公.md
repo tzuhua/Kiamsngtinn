@@ -7,6 +7,7 @@ category: chheh
 show_chapter: 2
 layout: post
 toc: true
+chapter_group: 2
 ---
 
 # 一bó͘無人知，兩bó͘ sià四代；一ang一bó͘無人講，一ang兩bó͘ sià祖公
