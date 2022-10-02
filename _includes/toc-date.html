@@ -33,33 +33,25 @@
                             <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
                         {% endif %}
 
-                        {% if post.show_chapter == 0 %}
-                            <a href="{{site.baseurl}}{{post.url}}"><h4>{{ post.title | escape }}</h4></a>
-
+                        {% if post.show_chapter == 1 %}
+                            <h4>&nbsp;&nbsp;鹹酸甜第1冊</h4>
+                        {% elsif post.show_chapter == 2 %}
+                            <h4>&nbsp;&nbsp;鹹酸甜第2冊</h4>
+                        {% elsif post.show_chapter == 3 %}
+                            <h4>&nbsp;&nbsp;鹹酸甜第3冊</h4>
+                        {% elsif post.show_chapter == 4 %}
+                            <h4>&nbsp;&nbsp;鹹酸甜第4冊</h4>
                         {% endif %}
 
                         {% if collection.label == "posts" %}
                             <b>
                         {% endif %}
-                        {% if site.toc.enabled %}
-                            <!-- {% if post.show_chapter != 0 %} -->
-                            {% if page.url == post.url %}
-                                <font size="5">
-                                <a href="{{site.baseurl}}{{post.url}}">
-                                    {{ post.title | escape }}
-                                </a>
-                                <!-- {% if collection.label == "posts" %}
-                                    </b>
-                                {% endif %} -->
-                                </font>
-                            {% endif %}
-                        {% endif %}
-                        <!--<a href="{{site.baseurl}}{{post.url}}"> -->
+                        <a href="{{site.baseurl}}{{post.url}}">
                             <!-- {% if collection.label == "posts" %}
                                 &nbsp;
                             {% endif %} -->
-                        <!--    {{ post.title | escape }}
-                        </a> -->
+                            {{ post.title | escape }}
+                        </a>
                         {% if collection.label == "posts" %}
                             </b>
                         {% endif %}
@@ -71,7 +63,7 @@
                                 </font>
                             {% endif %}
                         {% endif %} -->
-                        
+
                         </li>
                     {% endfor %}
 
