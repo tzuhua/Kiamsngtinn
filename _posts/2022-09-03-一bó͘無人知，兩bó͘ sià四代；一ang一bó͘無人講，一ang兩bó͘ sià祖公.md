@@ -1,17 +1,18 @@
 ---
 chapter: 鹹酸甜第1冊
-title: 1003. 一bó͘無人知，兩bó͘ sià四代；一ang一bó͘無人講，一ang兩bó͘ sià祖公
+title: 003. 一bó͘無人知，兩bó͘ sià四代；一ang一bó͘無人講，一ang兩bó͘ sià祖公
 author: Siau Lah-jih
 date: 2022-09-03
 category: chheh
-show_chapter: 2
+show_chapter: 1
 layout: post
 toc: true
-chapter_group: 2
 ---
 
+
+## 〈003〉
 # 一bó͘無人知，兩bó͘ sià四代；一ang一bó͘無人講，一ang兩bó͘ sià祖公
->**Chi̍t bó͘ bô-lâng chai, nn̄g bó͘ sià sì-tāi; 
+>**Chi̍t bó͘ bô-lâng chai, nn̄g bó͘ sià sì-tāi;
 Chi̍t ang chi̍t bó͘ bô-lâng kóng, chi̍t ang nn̄g bó͘ sià chó͘-kong**
 
 娶細姨ê pháiⁿ風俗，m̄知ùi tó位傳入來咱台灣--ê，soah hō͘咱本chiâⁿ樸實古意ê台灣cha-po͘人變pháiⁿ--ah，明明知影娶兩ê bó͘，分bē pêⁿ，惹來冤家lô債，家庭起風波，m̄-kú到taⁿ iáu oân-ná有一寡戇giàn頭ê大丈夫，m̄驚死liâu--落-去。
@@ -22,6 +23,7 @@ Chi̍t ang chi̍t bó͘ bô-lâng kóng, chi̍t ang nn̄g bó͘ sià chó͘-kong
 
 ### 【註解】
 
+|詞|解說|
 |Ùi tó位|『從哪裡』。|
 |本chiâⁿ|Pún-chiâⁿ，本來。|
 |變pháiⁿ--ah|『變壞了』。|
