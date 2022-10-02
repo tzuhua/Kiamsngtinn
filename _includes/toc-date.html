@@ -43,24 +43,25 @@
                             <h4>&nbsp;&nbsp;鹹酸甜第4冊</h4>
                         {% endif %} -->
 
-                        
+                        {% if post.show_chapter == 0 %}
+                            <a href="{{site.baseurl}}{{post.url}}">
+                                {{ post.title | escape }}
+                            </a>
+                        {% endif %} 
+
                         {% if site.toc.enabled %}
                             {% if page.url == post.url %}
                                 <font size="2">
                                 <!-- {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}-->
                                 {% if collection.label == "posts" %}
-                                <b>
-                            {% endif %}
-                            <a href="{{site.baseurl}}{{post.url}}">
-                                <!-- {% if collection.label == "posts" %}
-                                    &nbsp;
-                                {% endif %} -->
-                                {{ post.title | escape }}
-                            </a>
-                            {% if collection.label == "posts" %}
-                                </b>
-                            {% endif %}
-    
+                                    <b>
+                                {% endif %}
+                                <a href="{{site.baseurl}}{{post.url}}">
+                                    {{ post.title | escape }}
+                                </a>
+                                {% if collection.label == "posts" %}
+                                    </b>
+                                {% endif %}
                                 </font>
                             {% endif %}
                         {% endif %}
