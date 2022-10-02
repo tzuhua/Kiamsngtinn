@@ -56,9 +56,11 @@
                                 {% if collection.label == "posts" %}
                                     <b>
                                 {% endif %}
-                                <a href="{{site.baseurl}}{{post.url}}">
-                                    {{ post.title | escape }}
-                                </a>
+                                {% if post.show_chapter == 1 %}
+                                    <a href="{{site.baseurl}}{{post.url}}">
+                                        {{ post.title | escape }}
+                                    </a>
+                                {% endif %} 
                                 {% if collection.label == "posts" %}
                                     </b>
                                 {% endif %}
