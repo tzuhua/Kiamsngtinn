@@ -33,7 +33,7 @@
                             <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
                         {% endif %}
 
-                        {% if post.show_chapter == 1 %}
+                        <!-- {% if post.show_chapter == 1 %}
                             <h4>&nbsp;&nbsp;鹹酸甜第1冊</h4>
                         {% elsif post.show_chapter == 2 %}
                             <h4>&nbsp;&nbsp;鹹酸甜第2冊</h4>
@@ -41,28 +41,29 @@
                             <h4>&nbsp;&nbsp;鹹酸甜第3冊</h4>
                         {% elsif post.show_chapter == 4 %}
                             <h4>&nbsp;&nbsp;鹹酸甜第4冊</h4>
-                        {% endif %}
+                        {% endif %} -->
 
-                        {% if collection.label == "posts" %}
-                            <b>
-                        {% endif %}
-                        <a href="{{site.baseurl}}{{post.url}}">
-                            <!-- {% if collection.label == "posts" %}
-                                &nbsp;
-                            {% endif %} -->
-                            {{ post.title | escape }}
-                        </a>
-                        {% if collection.label == "posts" %}
-                            </b>
-                        {% endif %}
-
-                        <!-- {% if site.toc.enabled %}
+                        
+                        {% if site.toc.enabled %}
                             {% if page.url == post.url %}
                                 <font size="2">
-                                {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
+                                <!-- {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}-->
+                                {% if collection.label == "posts" %}
+                                <b>
+                            {% endif %}
+                            <a href="{{site.baseurl}}{{post.url}}">
+                                <!-- {% if collection.label == "posts" %}
+                                    &nbsp;
+                                {% endif %} -->
+                                {{ post.title | escape }}
+                            </a>
+                            {% if collection.label == "posts" %}
+                                </b>
+                            {% endif %}
+    
                                 </font>
                             {% endif %}
-                        {% endif %} -->
+                        {% endif %}
 
                         </li>
                     {% endfor %}
