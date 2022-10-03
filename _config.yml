@@ -15,8 +15,8 @@ rss:              RSS
 
 toc:
   enabled: true
-  h_min: 1
-  h_max: 2
+  h_min: 4
+  h_max: 5
 
 # markdown render engine.
 markdown:         kramdown
