@@ -33,24 +33,11 @@
                             <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
                         {% endif %}
 
-                        <!--{% if post.show_chapter == 1 %}
-                            <h4>&nbsp;&nbsp;鹹酸甜第1冊</h4>
-                        {% elsif post.show_chapter == 2 %}
-                            <h4>&nbsp;&nbsp;鹹酸甜第2冊</h4>
-                        {% elsif post.show_chapter == 3 %}
-                            <h4>&nbsp;&nbsp;鹹酸甜第3冊</h4>
-                        {% elsif post.show_chapter == 4 %}
-                            <h4>&nbsp;&nbsp;鹹酸甜第4冊</h4>
-                        {% endif %} -->
-
                         {% if collection.label == "posts" %}
                             <b>
                         {% endif %}
                         {% if post.show_chapter != 1 %}
                             <a href="{{site.baseurl}}{{post.url}}">
-                                <!-- {% if collection.label == "posts" %}
-                                    &nbsp;
-                                {% endif %} -->
                                 {{ post.title | escape }}
                             </a>
                         {% endif %}
