@@ -46,7 +46,7 @@
                         {% if collection.label == "posts" %}
                             <b>
                         {% endif %}
-                        {% if post.show_chapter == 0 %}
+                        {% if post.show_chapter != 1 %}
                             <a href="{{site.baseurl}}{{post.url}}">
                                 <!-- {% if collection.label == "posts" %}
                                     &nbsp;
