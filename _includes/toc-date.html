@@ -49,7 +49,7 @@
                             {% if page.url == post.url %}
                                 {% if post.show_chapter == 0 %}
                                     <font size="2"> <b>
-                                    {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
+                                    {% include toc.html h_min=site.toc.h_min h_max=site.toc.h_max %}
                                     </b></font>
                                 {% endif %}
                             {% endif %}
