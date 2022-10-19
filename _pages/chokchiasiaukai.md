@@ -66,9 +66,9 @@ layout: post
 |2020.01|《台灣俗語鹹酸甜第四冊》。前衛出版社出版|
 |2020.01|《Lahjih身世kap親人》。前衛出版社出版|
 
-![](../../too5/00/tuchok1.jpg)
-![](../../too5/00/tuchok2.jpg)
-![](../../too5/00/tuchok3.jpg)
+![](../too5/00/tuchok1.jpg)
+![](../too5/00/tuchok2.jpg)
+![](../too5/00/tuchok3.jpg)
 
 ### 5. 個人網頁
 
@@ -77,4 +77,4 @@ layout: post
 - [台語讀寫 有聲教學](http://tiantionglang.blogspot.com/)
 - [Lahjih老師的網誌](http://blog.xuite.net/kouhua/lahjih)
 
-![](../../too5/00/chokchia2.jpg)
+![](../too5/00/chokchia2.jpg)
