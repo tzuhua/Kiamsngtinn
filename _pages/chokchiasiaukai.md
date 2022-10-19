@@ -6,7 +6,7 @@ category: siaukai
 layout: post
 ---
 
-![](../../too5/00/chokchia1.jpg)
+![](../too5/00/chokchia1.jpg)
 
 ## 蕭平治（Siau Lah-jih）
 
