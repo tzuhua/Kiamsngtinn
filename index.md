@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![](./too5/thauiah.jpg)
+![](too5/thauiah.jpg)
 
 ## 網站紹介
 Chit ê網站是為tio̍h **Siau Lah-jih（蕭平治）**先生ê著作**《Tâi-oân Sio̍k-gí Kiâm-sng-tiⁿ (台灣俗語鹹酸甜)》**來設--ê。
